@@ -1,0 +1,11 @@
+ctrl + shit P  show commands
+ctrl + b = close  open explorer pane
+ctrl + ~ = toggle terminal
+ctrl + p  = search a command
+ctrl + k and and arrow  = moves to the split window
+
+how to start env
+click on the python version and select env version
+or python3 -m venv myenv
+
+
